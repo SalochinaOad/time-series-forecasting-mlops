@@ -22,8 +22,7 @@ Each chapter includes:
 
 ##  Repository Structure
 
-The repository is organized chapter-wise for easy navigation:
-
+```
 time-series-forecasting-mlops/
 │
 ├── chapter_01_introduction/
@@ -50,7 +49,7 @@ time-series-forecasting-mlops/
 ├── data/
 ├── utils/
 └── requirements.txt
----
+```
 
 ## How to Use This Repository
 
