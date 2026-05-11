@@ -157,5 +157,5 @@ By the end, you will understand not just forecasting models, but how they are:
 
 If you are using this repository, it is recommended to follow the book alongside it for full understanding:
 
-Practical Time Series Analysis & Forecasting
-A User-Friendly Guide to Mastering End-to-End Modeling in Python
+**Practical Time Series Analysis & Forecasting**
+*A User-Friendly Guide to Mastering End-to-End Modeling in Python*
