@@ -70,7 +70,7 @@ You can run the code using:
 ### 3. Recommended Setup
 
 #### Install dependencies:
-```bash
+
 pip install -r requirements.txt
 Run notebooks:
 jupyter notebook
@@ -81,6 +81,7 @@ For deep learning and heavy computations:
 Free GPU/TPU support
 No installation required
 Best for LSTM, CNN, and MLOps chapters
+
 # Data Strategy
 Synthetic datasets are used in many chapters
 This ensures:
@@ -139,6 +140,7 @@ fastapi
 uvicorn
 joblib
 matplotlib
+
 # Goal of This Repository
 
 This project is designed to bridge the gap between:
@@ -151,6 +153,7 @@ Built
 Deployed
 Monitored
 Updated in real-world systems
+
 # Book Reference
 
 If you are using this repository, it is recommended to follow the book alongside it for full understanding:
