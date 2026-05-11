@@ -95,27 +95,27 @@ What You Will Learn
 
 By working through this repository, you will learn:
 
-Foundations
-Time series structure
-Trend, seasonality, noise
-Stationarity and autocorrelation
-Classical Models
-AR, MA, ARIMA, SARIMAX
-Machine Learning
-Feature engineering for time series
-XGBoost forecasting
-Deep Learning
-LSTM-based forecasting
-CNN-based sequence modeling
-Industrial Forecasting
-Prophet for business forecasting
-Model selection strategies
-Production MLOps
-End-to-end forecasting pipelines
-Model deployment using FastAPI
-Monitoring and drift detection
-Automated retraining systems
-MLOps System (Chapter 15)
+- Foundations
+- Time series structure
+- Trend, seasonality, noise
+- Stationarity and autocorrelation
+- Classical Models
+- AR, MA, ARIMA, SARIMAX
+- Machine Learning
+- Feature engineering for time series
+- XGBoost forecasting
+- Deep Learning
+- LSTM-based forecasting
+- CNN-based sequence modeling
+- Industrial Forecasting
+- Prophet for business forecasting
+- Model selection strategies
+- Production MLOps
+- End-to-end forecasting pipelines
+- Model deployment using FastAPI
+- Monitoring and drift detection
+- Automated retraining systems
+- MLOps System (Chapter 15)
 
 This repository includes a complete production-grade forecasting system:
 
