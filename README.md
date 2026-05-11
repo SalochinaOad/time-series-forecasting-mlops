@@ -71,23 +71,22 @@ You can run the code using:
 
 #### Install dependencies:
 
-pip install -r requirements.txt
-Run notebooks:
-jupyter notebook
-Google Colab (Recommended)
+- pip install -r requirements.txt
+- Run notebooks:
+-- jupyter notebook
+-- Google Colab (Recommended)
 
 For deep learning and heavy computations:
-
-Free GPU/TPU support
-No installation required
-Best for LSTM, CNN, and MLOps chapters
+- Free GPU/TPU support
+- No installation required
+- Best for LSTM, CNN, and MLOps chapters
 
 # Data Strategy
 Synthetic datasets are used in many chapters
 This ensures:
-Reproducibility
-Stability of code
-No dependency on external CSV changes
+- Reproducibility
+- Stability of code
+- No dependency on external CSV changes
 
 You are encouraged to replace synthetic data with real datasets as long as the structure matches the expected format.
 
@@ -119,40 +118,40 @@ By working through this repository, you will learn:
 
 This repository includes a complete production-grade forecasting system:
 
-Data pipeline
-Feature engineering layer
-Model training pipeline
-API-based deployment (FastAPI)
-Monitoring system
-Drift detection
-Automated retraining logic
-Docker-based deployment
-Requirements
+- Data pipeline
+- Feature engineering layer
+- Model training pipeline
+- API-based deployment (FastAPI)
+- Monitoring system
+- Drift detection
+- Automated retraining logic
+- Docker-based deployment
+- Requirements
 
 Main libraries used:
 
-pandas
-numpy
-scikit-learn
-xgboost
-statsmodels
-fastapi
-uvicorn
-joblib
-matplotlib
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- statsmodels
+- fastapi
+- uvicorn
+- joblib
+- matplotlib
 
 # Goal of This Repository
 
 This project is designed to bridge the gap between:
 
-Academic Time Series Models → Real Production MLOps Systems
+- Academic Time Series Models → Real Production MLOps Systems
 
 By the end, you will understand not just forecasting models, but how they are:
 
-Built
-Deployed
-Monitored
-Updated in real-world systems
+- Built
+- Deployed
+- Monitored
+- Updated in real-world systems
 
 # Book Reference
 
